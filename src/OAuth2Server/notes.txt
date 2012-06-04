@@ -1,0 +1,8 @@
+//1.获取基本参数并验证正确性
+GetAuthorizeParams();
+//2.验证登陆并提交认证
+FinishClientAuthorization(true);
+//3.根据Response（Code或token）获取Access_Token
+GrantAccessToken();
+//4.验证token
+VerifyAccessToken();
