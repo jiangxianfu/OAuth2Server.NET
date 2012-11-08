@@ -2,4 +2,4 @@ OAuth2Server.NET
 ================
 
 OAuth2.0 Server Library
-è¯¥ç³»ç»Ÿä½“ç”¨æ ‡å‡†çš„OAuth2.0çš„æ¥å£
+¸ÃÏµÍ³ÌåÓÃ±ê×¼µÄOAuth2.0µÄ½Ó¿Ú
